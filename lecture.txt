@@ -1,0 +1,35 @@
+hello people aaj hum baad karne wale hai web d ke baaremai 
+uses -> 1) college project 2)inter / placements 3)freelences 4)open source contribute 5)personal portfolio / startup project 
+aache rishte like jada paise jada rishte 
+jokes apart
+my experience suntech 
+aaj hum baad karne wale hai steps kya hoga web devlopment ka 
+pillers of web d
+frontend - website ka vo part jise interact kar sakte hai ex- insta profile,like,comment,,paymt ka balance
+backend - jismai hum interact nhi kar sakte ,but cheez automatic hoti hai aur hame pata nhi chalta ex- serve se post aaya, paise kate hai
+database - data ko store karke rakna lots of data ex- whatsapp
+
+roadmap
+step 1 frontend 3 tech easy,usefull
+html,css,javascript
+website is like a house 
+html bricks,pillers,cement , basic struture --> what content, buttons ,      (haadi)
+css colour , button, switchboard tv positing  style add web pe css style add karta hai , (makeup)
+javascript - web mai logic add karna , ghar mai button pe press karte hi fan on off and other buttons, functionality to website (attract,patgaya)
+
+step 2 framworks 
+react and angular 
+
+step 3 backend 
+node.js ke inder hi javascript ka code likhana hai v8 runtime javascript run hoti hai + popular
+database - sql nosql table and all
+
+html hypertext markup language
+instruction manual phele ye css ye javascript
+normal to-> html element '<>' '<\>' = tag + content
+h p br 
+div -> contrainer hai 
+img width height 
+style 
+
+
